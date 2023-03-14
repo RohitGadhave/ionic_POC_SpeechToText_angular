@@ -1,0 +1,7 @@
+{
+  "name": "POC_SpeechToText",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
